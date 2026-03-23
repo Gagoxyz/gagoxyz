@@ -55,6 +55,12 @@ Stack: .NET 8 (Worker Service), SQL Server, OAuth2
 Stack: .NET 8, SQL Server, OAuth2, Concurrent Processing  
 > Procesa ventas por fechas, las envía a CESCE, registra resultados y mantiene logs con retención.
 
+---
+
+### 🔹 [EnviarCorreusLauncher](https://github.com/Gagoxyz/EnviarCorreusLauncher)
+**Utilidad .NET Framework que recibe parámetros desde un externo, obtiene un correo pendiente en SQL Server y genera la petición JSON para ExtraMailOffice.exe.**  
+Stack: .NET Framework 4.8, SQL Server, JSON, procesos externos 
+> Automatiza el envío de correos corporativos mediante ExtraMailOffice, asegura trazabilidad, gestiona adjuntos y registra el resultado directamente en base de datos.
 
 ---
 
