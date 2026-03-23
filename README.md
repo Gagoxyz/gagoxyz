@@ -57,6 +57,13 @@ Stack: .NET 8, SQL Server, OAuth2, Concurrent Processing
 
 ---
 
+### 🔹 [PayrollPdfClassifier](https://github.com/Gagoxyz/PayrollPdfClassifier)
+**Utilidad EXE en VB.NET que separa PDFs multipágina, extrae el contenido con PdfPig y clasifica automáticamente nóminas y fichajes por trabajador y período.**  
+Stack: VB.NET (.NET Framework 4.8), PdfPig, PdfSharp, SQL (ODBC) 
+> Automatiza el tratamiento documental: identifica al empleado por DNI o ID, individualiza cada nómina, fusiona duplicados y organiza los documentos en sus carpetas correspondientes.
+
+---
+
 ### 🔹 [EnviarCorreusLauncher](https://github.com/Gagoxyz/EnviarCorreusLauncher)
 **Utilidad .NET Framework que recibe parámetros desde un externo, obtiene un correo pendiente en SQL Server y genera la petición JSON para ExtraMailOffice.exe.**  
 Stack: .NET Framework 4.8, SQL Server, JSON, procesos externos 
